@@ -1,0 +1,21 @@
+.mainCardBody{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: solid black 1px;
+}
+.mainCardPart{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 20px;
+}
+.inputArea{
+    width: 50px;
+}
+.objectIMG{
+    width: 150px;
+    height: 100px;
+}

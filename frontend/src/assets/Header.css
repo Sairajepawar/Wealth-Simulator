@@ -1,0 +1,7 @@
+.mainHeader{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #50cd50;
+    margin-bottom: 10px;
+}
