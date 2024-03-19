@@ -97,6 +97,8 @@ Before running this project, ensure you have the following installed:
 
 ## Project in Action 
 
+[Demonstation Video](https://github.com/Sairajepawar/Wealth-Simulator/assets/97350488/8573290a-141c-4bbb-9a05-46f22cfdb730)
+
 
 
 ## Note
